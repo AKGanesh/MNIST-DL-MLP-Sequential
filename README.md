@@ -43,9 +43,8 @@ This is a dataset of 60,000 28x28 grayscale images of 10 fashion categories, alo
 
 ## Evaluation and Results
 
-| NN        | Params | Test Loss, Test Acc |
-| --------- | ------ | ------------------- | ------ |
-| --------- | :---   | :---------          | :----- |
+| NN  | Params | Test Loss, Test Acc |
+| --- | :----- | :------------------ |
 
 | Input(shape=(28, 28, 1)),
 Flatten(),
