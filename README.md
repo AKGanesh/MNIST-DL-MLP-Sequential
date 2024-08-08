@@ -90,8 +90,8 @@ Dense(10, activation='softmax') |109k | [0.35463255643844604, 0.8860999941825867
 
 #### Whats is Tensorboard?
 
-https://www.tensorflow.org/tensorboard/get_started
 In machine learning, to improve something you often need to be able to measure it. TensorBoard is a tool for providing the measurements and visualizations needed during the machine learning workflow. It enables tracking experiment metrics like loss and accuracy, visualizing the model graph, projecting embeddings to a lower dimensional space, and much more.
+https://www.tensorflow.org/tensorboard/get_started
 
 #### What is a classification problem?
 
@@ -100,8 +100,6 @@ A classification problem in machine learning is a task where the goal is to pred
 #### What is Keras?
 
 Keras is a deep learning API written in Python and capable of running on top of either JAX, TensorFlow, or PyTorch. As a multi-framework API, Keras can be used to develop modular components that are compatible with any framework – JAX, TensorFlow, or PyTorch.
-
-#### How to save the model?
 
 ## Acknowledgements
 
