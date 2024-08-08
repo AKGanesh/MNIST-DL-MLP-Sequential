@@ -45,7 +45,6 @@ This is a dataset of 60,000 28x28 grayscale images of 10 fashion categories, alo
 
 | NN  | Params | Test Loss, Test Acc |
 | --- | :----- | :------------------ |
-
 | Input(shape=(28, 28, 1)),
 Flatten(),
 Dense(64, activation='relu'),
